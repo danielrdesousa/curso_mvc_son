@@ -1,0 +1,16 @@
+{
+    "name": "daniel/curso-mvc",
+    "authors": [
+        {
+            "name": "Daniel Rodrigues",
+            "email": "danielrdesousa@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SON\\": "src",
+            "App\\": "app"
+        }
+    }
+}
